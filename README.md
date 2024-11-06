@@ -1,3 +1,4 @@
+
 **AI Image Generator**
 
 This project is an AI-powered image generator built using React and OpenAI's API. The application allows users to generate images based on textual descriptions.
